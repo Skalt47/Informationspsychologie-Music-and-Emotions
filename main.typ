@@ -3,10 +3,10 @@
 #import "glossary.typ": glossary
 
 #show: supercharged-dhbw.with(
-  title: "Titel",
+  title: "Der Einfluss von Musik auf Aufmerksamkeit und Informationsverarbeitung",
   authors: (
     (name: "Tim Jauch", student-id: "763086", course: "SWB", course-of-studies: "Fach"),
-    (name: "Max Mustermann", student-id: "000007", course: "SWB", course-of-studies: "Fach"),
+
   ),
   acronyms: acronyms, // displays the acronyms defined in the acronyms dictionary
   at-university: true, // if true the company name on the title page and the confidentiality statement are hidden
@@ -24,14 +24,91 @@
 )
 
 // Edit this content to your liking
-#let project-name = "Stack Attack"
-#let project-slogan = "All or nothing!"
+#let title = "Der Einfluss von Musik auf Aufmerksamkeit und Informationsverarbeitung"
 
 // Max 1 Page
 = Einleitung
-#project-name: #project-slogan
-== Vorstellung des Projekts
-#project-name ist ein Softwareprojekt, welches mit Hilfe von LLMs entwickelt und dokumentiert wird. Das Ziel des Projekts ist es, eine Online Version des beliebten Quartett Kartenspiels zu erstellen. Hierbei gilt es den Aufwand bei der Erstellung der Software mithilfe von LLMs zu minimieren und gleichzeitig eine qualitativ hochwertige Software zu entwickeln.
+Relevanz von Aufmerksamkeit im Alltag
+Musik ist generell ein häufiger Begleiter im Alltag. Ob beim Auto fahren, einkaufen und auch für manche beim lernen. 
+
+Problem:
+Obwohl Musik sehr präsent ist, ist deren Wirkung ob Musik die Aufmerksamkeit generell verbessert, verschlechtert oder gar keinen Einfluss auf das Lernen hat nicht allgemein bekannt.
+
+Forschung:
+Die bisherige Forschung zeigt unterschiedliche Ergebnisse, je nach Art der Musik, Aufgabe und Person.
+
+Ziel der Hausarbeit:
+Ziel dieser Arbeit ist es, zentrale theoretische Modelle sowie empirische Studien zum Einfluss von Musik auf die Aufmerksamkeit und Informationsverarbeitung darzustellen.
+
+Aufbau der Hausarbeit:
+Zunächst wird der theoretische Hintergrund erläutert, anschließend empirische Befunde dargestellt und abschließend praktische Anwendungen diskutiert.
+
+= Theoretischer Hintergrund
+
+== Aufmerksamkeit (Definition, Modelle)
+Selektive Aufmerksamkeit
+
+Geteilte Aufmerksamkeit
+
+Arbeitsgedächtnis
+
+Informationsverarbeitung
+
+== Musik als Reiz in kognitiven Aufgaben
+Strukturmerkmale (Tempo, Lautstärke, Lyrics)
+
+Arousal & Mood Modell
+
+Cognitive Load (kognitive Belastung)
+
+= Empirische Forschung zu Musik und Aufmerksamkeit
+
+== Musik fördert Aufmerksamkeit
+ruhige Musik
+
+Instrumentalmusik
+
+mittleres Arousal
+
+bekannte Studien (Schellenberg, Jäncke)
+== Musik verschlechtert Aufmerksamkeit
+Musik mit Text
+
+laute Musik
+
+Popmusik mit hoher Variabilität
+
+„Irrelevant Sound Effect“ (Perham, 2010)
+== Einfluss einzelner Faktoren
+Tempo
+
+Genre
+
+Lautstärke
+
+persönliche Präferenz
+
+Introvertiert vs. extrovertiert (Furnham & Bradley)
+== Anwendung im Alltag
+Musik beim Lernen
+
+Musik am Arbeitsplatz
+
+Musik in Klassenräumen
+
+Musik in Werbung & Medien
+
+„Focus Playlists“ – warum funktionieren sie?
+
+== Fazit
+Zusammenfassung
+
+Bedeutung für Praxis
+
+Ausblick auf weitere Forschung
+
+#pagebreak()
+
 
 = Acronyms
 
