@@ -3,7 +3,7 @@
 #import "glossary.typ": glossary
 
 #show: supercharged-dhbw.with(
-  title: "Der Einfluss von Musik auf Aufmerksamkeit und Informationsverarbeitung",
+  title: "Positive emotionale und motivationale Wirkungen von Musik auf den Menschen",
   authors: (
     (name: "Tim Jauch", student-id: "763086", course: "SWB", course-of-studies: "Fach"),
 
@@ -23,12 +23,14 @@
   // for more options check the package documentation (https://typst.app/universe/package/supercharged-dhbw)
 )
 
-// Edit this content to your liking
-#let title = "Der Einfluss von Musik auf Aufmerksamkeit und Informationsverarbeitung"
-
 // Max 1 Page
 = Einleitung
-Relevanz von Aufmerksamkeit im Alltag
+Musik begleitet den Menschen in nahezu allen Lebensbereichen und nimmt dabei eine besondere Rolle in der emotionalen und motivationalen Erfahrung ein. Sie kann Stimmungen beeinflussen, Motivation steigern und wird sowohl im Alltag als auch gezielt in Bereichen wie Sport oder Therapie eingesetzt. Trotz dieser alltäglichen Präsenz ist die Frage, wie und warum Musik solche positiven Wirkungen entfalten kann, Gegenstand psychologischer Forschung.
+
+Ziel dieser Arbeit ist es, die positiven emotionalen und motivationalen Wirkungen von Musik auf den Menschen darzustellen. Dabei werden grundlegende psychologische Mechanismen der Emotionsentstehung durch Musik erläutert sowie der Einfluss unterschiedlicher Musikarten betrachtet. Desweiteren wird auf die Wirkung von Musik im sportlichen Kontext eingegangen. Abschließend werden Grenzen und individuelle Unterschiede in der Wirkung von Musik diskutiert. Der Aufbau der Arbeit orientiert sich an diesen thematischen Schwerpunkten.
+
+/*
+Relevanz von Aufmerksamkeit im Alltag:
 Musik ist generell ein häufiger Begleiter im Alltag. Ob beim Auto fahren, einkaufen und auch für manche beim lernen. 
 
 Problem:
@@ -43,7 +45,32 @@ Ziel dieser Arbeit ist es, zentrale theoretische Modelle sowie empirische Studie
 Aufbau der Hausarbeit:
 Zunächst wird der theoretische Hintergrund erläutert, anschließend empirische Befunde dargestellt und abschließend praktische Anwendungen diskutiert.
 
+Laut Youtube Video Inhalt:
+- Einführung in das Thema
+- Forschungsmotivation/Relevanz
+- Ziel der Arbeit (Forschungsfragen)
+- Forschungsvorgehen
+- Aufbau der Arbeit
+*/
+
+= Quelle auspressen
+- Fragestellung der Studie: Wie beeinflusst das Hören von Musik die Aufmerksamkeit und Informationsverarbeitung bei kognitiven Aufgaben?
+- Methode: Experimentelle Studie
+- Hat keinen/wenig Einfluss 
+- Ergebnisse: Musik mit Text verschlechtert die Aufmerksamkeit 
+
+= Hauptteil
+
+Laut Youtube Video Inhalt:
+- Aktueller Forschungsstand
+- Theoretischer Hintergrund
+- Methode/Forschungsdesign
+- Ergebnisse
+- Diskussion
+
 = Theoretischer Hintergrund
+
+
 
 == Aufmerksamkeit (Definition, Modelle)
 Selektive Aufmerksamkeit
@@ -99,6 +126,13 @@ Musik in Klassenräumen
 Musik in Werbung & Medien
 
 „Focus Playlists“ – warum funktionieren sie?
+
+= Schluss
+- Zusammenfassung
+- Rückbezug zu Forschungsfragen
+- Mehrwert
+- Limitationen
+- Weiterführende Forschung
 
 == Fazit
 Zusammenfassung
