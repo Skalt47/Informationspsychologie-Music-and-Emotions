@@ -29,6 +29,29 @@ Musik begleitet den Menschen in nahezu allen Lebensbereichen und nimmt dabei ein
 
 Ziel dieser Arbeit ist es, die positiven emotionalen und motivationalen Wirkungen von Musik auf den Menschen darzustellen. Dabei werden grundlegende psychologische Mechanismen der Emotionsentstehung durch Musik erläutert sowie der Einfluss unterschiedlicher Musikarten betrachtet. Desweiteren wird auf die Wirkung von Musik im sportlichen Kontext eingegangen. Abschließend werden Grenzen und individuelle Unterschiede in der Wirkung von Musik diskutiert. Der Aufbau der Arbeit orientiert sich an diesen thematischen Schwerpunkten.
 
+= Theoretische Grundlagen
+== Emotionen und Motivation (psychologische Einordnung)
+== Musik und Emotionsverarbeitung
+
+= Positive emotionale Wirkungen von Musik
+== Stimmungsregulation und Affekt
+== Aktivierung (Arousal)
+
+= Motivationale Wirkungen von Musik
+== Motivation und Antrieb
+== Einfluss unterschiedlicher Musikarten
+
+= Musik im sportlichen Kontext
+== Motivation und Leistung
+== Subjektives Belastungsempfinden
+
+= Grenzen und kritische Betrachtung
+
+= Fazit
+
+
+
+
 /*
 Relevanz von Aufmerksamkeit im Alltag:
 Musik ist generell ein häufiger Begleiter im Alltag. Ob beim Auto fahren, einkaufen und auch für manche beim lernen. 
@@ -51,7 +74,7 @@ Laut Youtube Video Inhalt:
 - Ziel der Arbeit (Forschungsfragen)
 - Forschungsvorgehen
 - Aufbau der Arbeit
-*/
+
 
 = Quelle auspressen
 - Fragestellung der Studie: Wie beeinflusst das Hören von Musik die Aufmerksamkeit und Informationsverarbeitung bei kognitiven Aufgaben?
@@ -234,3 +257,4 @@ You can also reference by adding `<ref>` with the desired name after figures or 
 
 For example this @table references the table on the previous page.
 
+*/
