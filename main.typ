@@ -20,6 +20,7 @@
   university: "Hochschule Esslingen University of Applied Sciences",
   university-location: "Campus Esslingen Flandernstraße",
   university-short: "HSE",
+  bib-style: "apa",
   // for more options check the package documentation (https://typst.app/universe/package/supercharged-dhbw)
 )
 
@@ -31,7 +32,18 @@ Ziel dieser Arbeit ist es, die positiven emotionalen und motivationalen Wirkunge
 
 = Theoretische Grundlagen
 == Emotionen und Motivation (psychologische Einordnung)
+Emotionen und Motivation stellen zentrale psychologische Konzepte dar, die eng miteinander verbunden sind, jedoch unterschiedliche Funktionen erfüllen. Emotionen werden in der Psychologie als komplexe Zustände verstanden, die aus mehreren Komponenten bestehen. Dazu zählen kognitive Bewertungsprozesse, physiologische Aktivierung, subjektives Erleben sowie expressive und handlungsbezogene Tendenzen. Emotionen entstehen demnach nicht allein aus körperlichen Reaktionen, sondern aus der Interpretation einer Situation in Bezug auf persönliche Ziele und Bedürfnisse. @reber2019psychology[p. 20]
 
+Verschiedene emotionstheoretische Ansätze verdeutlichen diese Mehrdimensionalität. Während frühe Theorien Emotionen primär als Folge physiologischer Prozesse betrachteten, betonen neuere appraisal-theoretische Modelle die Bedeutung kognitiver Bewertungen für die Entstehung emotionaler Zustände. Demnach beeinflusst die Einschätzung einer Situation – etwa als bedrohlich oder erfreulich – sowohl die Qualität als auch die Intensität der erlebten Emotion. 
+@reber_psychology_2020
+
+Motivation hingegen beschreibt die Prozesse, die Verhalten auslösen, ausrichten und aufrechterhalten. Sie beantwortet die Frage, warum Menschen handeln, und bezieht sich damit stärker auf zielgerichtetes Verhalten als auf das unmittelbare emotionale Erleben. Motivation kann aus unterschiedlichen Quellen entstehen und ist nicht direkt aus beobachtetem Verhalten ableitbar. 
+
+RolfReber_2019_3Whatdrivesbehav…
+
+Trotz dieser begrifflichen Trennung stehen Emotionen und Motivation in einem engen Zusammenhang. Emotionen enthalten häufig eine Handlungstendenz und können dadurch motivational wirksam werden. Positive Emotionen sind beispielsweise mit Annäherungstendenzen verbunden und können die Bereitschaft erhöhen, Aktivitäten aufzunehmen oder fortzuführen. Motivation wird in diesem Zusammenhang nicht als eigenständige Emotion verstanden, sondern als Folge emotionaler Prozesse, die das Verhalten beeinflussen. 
+
+RolfReber_2019_3Whatdrivesbehav…
 == Musik und Emotionsverarbeitung
 
 = Positive emotionale Wirkungen von Musik
@@ -50,6 +62,7 @@ Ziel dieser Arbeit ist es, die positiven emotionalen und motivationalen Wirkunge
 = Grenzen und kritische Betrachtung
 
 = Fazit
+
 
 
 
