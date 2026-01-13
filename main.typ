@@ -31,23 +31,26 @@ Ziel dieser Arbeit ist es, die positiven emotionalen und motivationalen Wirkunge
 
 = Theoretische Grundlagen
 == Emotionen und Motivation (psychologische Einordnung)
+
 == Musik und Emotionsverarbeitung
 
 = Positive emotionale Wirkungen von Musik
 == Stimmungsregulation und Affekt
 == Aktivierung (Arousal)
+== Entspannung und emotionales Wohlbefinden
 
-= Motivationale Wirkungen von Musik
-== Motivation und Antrieb
-== Einfluss unterschiedlicher Musikarten
+= Weiterführende Effekte positiver Emotionen durch Musik
+== Motivation als Folge emotionaler Prozesse
+== Einfluss unterschiedlicher Musikarten auf das emotionale Erleben
 
 = Musik im sportlichen Kontext
-== Motivation und Leistung
-== Subjektives Belastungsempfinden
+== Emotionale Wirkungen von Musik im Sport
+== Motivation und subjektives Belastungsempfinden
 
 = Grenzen und kritische Betrachtung
 
 = Fazit
+
 
 
 
