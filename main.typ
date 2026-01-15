@@ -66,6 +66,7 @@ körperliche Erregung
 == Stimmungsregulation
 Umgang damit
 @thoma2012emotion
+@gross1998emerging
 (@moore2013systematic)
 == Entspannung und emotionales Wohlbefinden
 @linnemann2015music
@@ -73,13 +74,16 @@ Umgang damit
 // ~2-3 Quellen
 = Weiterführende Effekte positiver Emotionen durch Musik
 == Motivation als Folge emotionaler Prozesse
+@fredrickson2001role
 == Einfluss unterschiedlicher Musikarten auf das emotionale Erleben
+@karageorghis2012music
 
 // 2 Quellen
 = Musik im sportlichen Kontext
 == Emotionale Wirkungen von Musik im Sport
 @kampfe2011impact
 == Motivation und subjektives Belastungsempfinden
+@karageorghis2012music
 
 // 2 Quellen
 = Grenzen und kritische Betrachtung
