@@ -15,7 +15,7 @@
   glossary: glossary, // displays the glossary terms defined in the glossary dictionary
   language: "de", // en, de
   // supervisor: (company: "John Appleseed"),
-  supervisor: (university: "Prof. Dr. BLABLA"),
+  supervisor: (university: "Florian Scholz"),
   university: "Hochschule Esslingen University of Applied Sciences",
   university-location: "Campus Esslingen Flandernstraße",
   university-short: "HSE",
@@ -84,12 +84,13 @@ Sloboda und Juslin betonen, dass individuelle Faktoren wie musikalische Vorerfah
 = Analyse
 == Positive emotionale Wirkungen von Musik
 === Externer Reiz
-Musik kann aus psychologischer Perspektive als externer auditiver Reiz verstanden werden, der emotionale Verarbeitungsprozesse anstößt. Als strukturierter akustischer Stimulus wirkt Musik nicht zufällig, sondern zeichnet sich durch spezifische Merkmale wie Tempo, Rhythmus, Dynamik oder Klangfarbe aus, die gezielt emotionale Reaktionen hervorrufen können. In der Emotionsforschung wird Musik daher häufig eingesetzt, um affektive Zustände experimentell zu induzieren und zu untersuchen.
+Aus psychologischer Sicht kann Musik als auditiver Reiz verstanden werden, welcher extern ist und emotionale Verarbeitungsprozesse auslöst.
+Als akustischer Stimulus gibt es in der Musik spezifische Merkmale wie Tempo, Rhythmus, Dynamik oder Klangfarbe, diese können spezifische emotionale Reaktionen hervorrufen. In der Emotionsforschung wird Musik daher häufig eingesetzt, um emotionale Zustände experimentell zu erzeugen mit anschließender Untersuchung.
 
-Überblicksarbeiten in der Musikpsychologie zeigen, dass musikalische Stimuli eine zentrale Rolle in der Erforschung emotionaler Prozesse einnehmen. Eerola und Vuoskoski weisen darauf hin, dass Musik in einer Vielzahl empirischer Studien als kontrollierbarer Reiz verwendet wird, um emotionale Reaktionen systematisch zu erfassen @eerola2012review[S. 309-311]. Dabei ermöglicht Musik im Vergleich zu anderen Reizen eine differenzierte Variation emotionaler Qualitäten, ohne auf sprachliche Inhalte angewiesen zu sein.
+Zusammenfassende Arbeiten in der Musikpsychologie zeigen, dass musikalische Stimuli eine wichtige Rolle in der Erforschung emotionaler Prozesse einnehmen. Eerola und Vuoskoski weisen darauf hin, dass Musik in einer Vielzahl empirischer Studien als kontrollierbarer Reiz verwendet wird, um emotionale Reaktionen systematisch zu erfassen @eerola2012review[S. 309-311]. Musik im Vergleich zu anderen Reizen kann eine breite Variation emotionaler Reaktionen hervorrufen, das auch ohne sprachliche Inhalte.
 
-Die Wirkung von Musik als emotionaler Reiz entfaltet sich jedoch nicht unabhängig vom Kontext. Emotionale Reaktionen entstehen aus dem Zusammenspiel zwischen den akustischen Eigenschaften der Musik und der individuellen Wahrnehmung der hörenden Person. Dennoch bildet Musik als externer Reiz den Ausgangspunkt emotionaler Prozesse, auf denen affektive Reaktionen, physiologische Aktivierung sowie weiterführende emotionale und motivationale Effekte aufbauen.
-@eerola2012review
+Die Wirkung, welche Musik als emotionalen Reiz liefern kann ist jedoch nicht unabhängig vom Kontext. Emotionale Reaktionen entstehen aus der Gemeinsamkeit zwischen den akustischen Eigenschaften der Musik und der individuellen Wahrnehmung der hörenden Person. Dennoch stellt Musik einen äußeren Reiz dar, der emotionale Verarbeitungsprozesse anstößt und in deren Folge emotionale Reaktionen, physiologische Aktivierung sowie weiterführende emotionale und motivationale Effekte auftreten können.
+
 === Affekt
 Affektive Reaktionen stellen häufig die unmittelbarste emotionale Wirkung von Musik dar. In der Psychologie bezeichnet der Begriff Affekt kurzzeitige, spontan auftretende emotionale Zustände, die meist ohne bewusste Reflexion ausgelöst werden. Beim Musikhören äußern sich solche affektiven Reaktionen beispielsweise in plötzlichen Gefühlen von Freude, Spannung oder Unbehagen, die unmittelbar mit dem akustischen Reiz verbunden sind.
 
