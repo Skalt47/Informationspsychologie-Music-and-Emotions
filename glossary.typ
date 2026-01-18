@@ -4,7 +4,7 @@
   ],
 
   Affekt: [
-    Affekt beschreibt einen kurzfristig auftretenden, meist spontan ausgelösten emotionalen Zustand, der durch eine geringe Dauer, hohe Intensität und sowie einer enge Verbindung zur physiologischen Aktivierung gekennzeichnet ist.
+    Affekt beschreibt einen kurzfristig auftretenden, meist spontan ausgelösten emotionalen Zustand, der durch eine geringe Dauer, hohe Intensität sowie einer engen Verbindung zur physiologischen Aktivierung gekennzeichnet ist.
   ],
 
   Aktivierung: [
