@@ -1,6 +1,6 @@
 #let glossary = (
   Emotion: [
-    Emotion bezeichnet einen mehrdimensionalen psychischen Zustand, der aus subjektivem Erleben, physiologischer Aktivierung, kognitiver Bewertung und handlungsbezogenen Tendenzen besteht und in der Regel durch die Bedeutung einer Situation für individuelle Ziele ausgelöst wird @reber2019psychology[S. 48-58].
+    Emotion bezeichnet einen mehrdimensionalen psychischen Zustand, der aus subjektivem Erleben, physiologischer Aktivierung, kognitiver Bewertung und handlungsbezogenen Tendenzen besteht und in der Regel durch die Bedeutung einer Situation für individuelle Ziele ausgelöst wird @reber2019psychology.
   ],
 
   Affekt: [
@@ -8,18 +8,18 @@
   ],
 
   Aktivierung: [
-    Aktivierung bezeichnet das Ausmaß physiologischer Erregung eines Organismus und beschreibt, unabhängig von der emotionalen Valenz, wie stark ein Individuum innerlich angeregt oder beruhigt ist @reber2019psychology[S. 53-54].
+    Aktivierung bezeichnet das Ausmaß physiologischer Erregung eines Organismus und beschreibt, unabhängig von der emotionalen Valenz, wie stark ein Individuum innerlich angeregt oder beruhigt ist @reber2019psychology.
   ],
 
   Valenz: [
-    Valenz beschreibt die qualitative Bewertung eines emotionalen Zustands entlang eines Kontinuums von positiv bis negativ und stellt eine zentrale Dimension zur Beschreibung emotionalen Erlebens dar @reber2019psychology[S. 53-54].
+    Valenz beschreibt die qualitative Bewertung eines emotionalen Zustands entlang eines Kontinuums von positiv bis negativ und stellt eine zentrale Dimension zur Beschreibung emotionalen Erlebens dar @reber2019psychology.
   ],
 
   Emotionsregulation: [
-    Emotionsregulation umfasst alle bewussten und unbewussten Prozesse, durch die Individuen beeinflussen, welche Emotionen sie erleben, wann diese auftreten und wie sie wahrgenommen oder ausgedrückt werden @gross1998emerging[S. 274-276].
+    Emotionsregulation umfasst alle bewussten und unbewussten Prozesse, durch die Individuen beeinflussen, welche Emotionen sie erleben, wann diese auftreten und wie sie wahrgenommen oder ausgedrückt werden @gross1998emerging.
   ],
 
   Motivation: [
-    Motivation bezeichnet einen inneren Prozess, der Verhalten initiiert, steuert und aufrechterhält und auf Bedürfnissen, Zielen oder Erwartungen beruht, ohne direkt aus beobachtbarem Verhalten ableitbar zu sein @reber2019psychology[S. 40-48].
+    Motivation bezeichnet einen inneren Prozess, der Verhalten initiiert, steuert und aufrechterhält und auf Bedürfnissen, Zielen oder Erwartungen beruht, ohne direkt aus beobachtbarem Verhalten ableitbar zu sein @reber2019psychology.
   ],
 )
