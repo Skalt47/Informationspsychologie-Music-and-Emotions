@@ -29,7 +29,7 @@
 )
 
 #let TITLEPAGE_SUPERVISOR = (
-  "de": "Betreuer an der ",
+  "de": "Dozent an der ",
   "en": "Supervisor at ",
 )
 
