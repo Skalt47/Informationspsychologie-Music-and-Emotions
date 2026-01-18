@@ -42,7 +42,7 @@
 
 #let DECLARATION_OF_AUTHORSHIP_SECTION_A_PLURAL = "Wir versichern hiermit, dass wir unsere Arbeit mit dem Thema:"
 
-#let DECLARATION_OF_AUTHORSHIP_SECTION_B_SINGLE = "selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Ich versichere zudem, dass alle eingereichten Fassungen übereinstimmen."
+#let DECLARATION_OF_AUTHORSHIP_SECTION_B_SINGLE = "selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe. Die Verwendung von ChatGPT 5.2 fand im Rahmen der sprachlichen Optimierung, Strukturierung des Textes und Grammatik statt. Für den Inhalt der Arbeit trage ich die volle Verantwortung."
 
 #let DECLARATION_OF_AUTHORSHIP_SECTION_B_PLURAL = "selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt haben. Wir versichern zudem, dass alle eingereichten Fassungen übereinstimmen."
 
